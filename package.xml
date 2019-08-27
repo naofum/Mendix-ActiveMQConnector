@@ -6,19 +6,30 @@
     <files>
       <file path="javasource\activemqconnector\helper\ActiveMQConnectorHelper.java" />
       <file path="userlib\activemq-client-5.15.9.jar" />
+      <file path="userlib\activemq-client-5.15.9.jar.ActiveMQConnector.RequiredLib" />
       <file path="userlib\geronimo-annotation_1.0_spec-1.1.1.jar" />
+      <file path="userlib\geronimo-annotation_1.0_spec-1.1.1.jar.ActiveMQConnector.RequiredLib" />
       <file path="userlib\geronimo-ejb_3.0_spec-1.0.1.jar" />
+      <file path="userlib\geronimo-ejb_3.0_spec-1.0.1.jar.ActiveMQConnector.RequiredLib" />
       <file path="userlib\geronimo-interceptor_3.0_spec-1.0.1.jar" />
+      <file path="userlib\geronimo-interceptor_3.0_spec-1.0.1.jar.ActiveMQConnector.RequiredLib" />
       <file path="userlib\geronimo-j2ee-management_1.1_spec-1.0.1.jar" />
+      <file path="userlib\geronimo-j2ee-management_1.1_spec-1.0.1.jar.ActiveMQConnector.RequiredLib" />
       <file path="userlib\geronimo-jms_1.1_spec-1.1.1.jar" />
+      <file path="userlib\geronimo-jms_1.1_spec-1.1.1.jar.ActiveMQConnector.RequiredLib" />
       <file path="userlib\geronimo-jta_1.1_spec-1.1.1.jar" />
+      <file path="userlib\geronimo-jta_1.1_spec-1.1.1.jar.ActiveMQConnector.RequiredLib" />
       <file path="userlib\hawtbuf-1.11.jar" />
+      <file path="userlib\hawtbuf-1.11.jar.ActiveMQConnector.RequiredLib" />
       <file path="userlib\mockobjects-core-0.09.jar" />
+      <file path="userlib\mockobjects-core-0.09.jar.ActiveMQConnector.RequiredLib" />
       <file path="userlib\mockobjects-jdk1.4-j2ee1.3-0.09.jar" />
+      <file path="userlib\mockobjects-jdk1.4-j2ee1.3-0.09.jar.ActiveMQConnector.RequiredLib" />
       <file path="userlib\slf4j-api-1.7.25.jar" />
+      <file path="userlib\slf4j-api-1.7.25.jar.ActiveMQConnector.RequiredLib" />
       <file path="javasource\activemqconnector\actions\ValidateMicroflow.java" />
-      <file path="javasource\activemqconnector\actions\PublishMessages.java" />
       <file path="javasource\activemqconnector\actions\PurgeQueue.java" />
+      <file path="javasource\activemqconnector\actions\PublishMessages.java" />
       <file path="javasource\activemqconnector\actions\SubscribeMessage.java" />
       <file path="javasource\activemqconnector\actions\DeleteQueue.java" />
     </files>

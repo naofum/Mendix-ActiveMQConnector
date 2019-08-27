@@ -38,11 +38,12 @@ This module supports two patterns:
 
 
 ## License
-Licensed under the Apache license.
+Licensed under the Apache license 2.0.
 
 ## Developers notes
-* Open the ActiveMQConnector.mpr in the Mendix Modeler.
+* Open the ActiveMQConnector.mpr in the Mendix Studio Pro.
 * Use *Deploy for Eclipse* option (F6) and you can then import this module as an Eclipse project to the Eclipse IDE.
 
-# Version history
-0.1 first functions for ActiveMQ implemented
+## Version history
+- 1.0.0 Converted to Mx 8.0.0
+- 0.1 first functions for ActiveMQ implemented
